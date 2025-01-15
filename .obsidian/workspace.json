@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "9976c4097824bedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2ec383f44c8227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "316dcac89166bda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Bottom Types/never.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "never"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e9c8325f82085d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a72ac435672018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1120ae41ac6ccab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "35ca6d8918314349",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "87e340fcda6db1f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "336c84a74d70bb76",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc99bea705fc186a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c0c2c366f4d8fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Typescript/API/Anotações da aula.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Anotações da aula"
+            }
+          },
+          {
+            "id": "0be546b3f669b1ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Typescript/Object Types/Tipos de objetos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Tipos de objetos"
+            }
+          },
+          {
+            "id": "c4eb1915e5396422",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0aa3c3fda6935b16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Typescript/Object Types/Tipos de objetos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Tipos de objetos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "316dcac89166bda3",
+  "lastOpenFiles": [
+    "Typescript/Top Types/unknown.md",
+    "Typescript/Bottom Types/never.md",
+    "Typescript/Top Types/any.md",
+    "Typescript/Functions/Funções.md",
+    "Typescript/API/Principais regras do Typescript.md",
+    "Typescript/API/Decorators.md",
+    "Typescript/API/Anotações da aula.md",
+    "Typescript/Essencial de Typescript - Cod3r Cursos/📍 Anotações da aula.md",
+    "NestJs/O que é NestJS.md",
+    "Angular/Learning Doc Angular.md",
+    "Typescript/Essencial de Typescript - Cod3r Cursos",
+    "Sem título.md",
+    "Typescript/API/Arquitetura de Repositórios.md",
+    "Typescript/Primitive Types/Tipos Primitivos.md",
+    "Pasted image 20250108084647.png",
+    "Pasted image 20250108084632.png",
+    "Imagens",
+    "Imagens/Pasted image 20250106122549.png",
+    "Typescript/Bottom Types",
+    "Typescript/Top Types",
+    "Typescript/Object Types/Tipos de objetos.md",
+    "Angular",
+    "Typescript/Functions",
+    "Imagens/repository.webp",
+    "Typescript/API",
+    "NestJs",
+    "Typescript/Object Types",
+    "Pasted image 20241227084013.png",
+    "Pasted image 20241227084007.png",
+    "Typescript/Primitive Types"
+  ]
+}
