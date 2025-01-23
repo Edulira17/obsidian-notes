@@ -7,7 +7,7 @@
 4. Módulos
 
 
-
+### Configurando Prettier:
 
 ``` json
 {

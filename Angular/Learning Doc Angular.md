@@ -1,4 +1,4 @@
-.326
+
 ## Updating the Component Class
 
 No Angular, a lógica e o comportamento do componente são definidos na classe TypeScript do componente.
